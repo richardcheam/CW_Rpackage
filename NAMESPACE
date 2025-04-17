@@ -1,0 +1,14 @@
+useDynLib(CWRpackage, .registration=TRUE)
+
+export(naive_pattern_matching)
+export(naive_pattern_matching_Rcpp)
+
+export(aho_corasick)
+export(aho_corasick_Rcpp)
+
+export(boyer_moore_search_Rcpp)
+export(boyer_moore_search_R)
+
+importFrom(Rcpp, evalCpp)
+import(stringr)
+import(testthat)

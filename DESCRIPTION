@@ -1,0 +1,13 @@
+Package: CWRpackage
+Type: Package
+Title: Algorithm for pattern matching
+Version: 1.0
+Date: 2025-03-28
+Author: Léos Coutrot, Luc Yao, Richard Cheam
+Maintainer: Léos Coutrot <leos.coutrot@ensiie.eu>, Luc Yao <luc.yao@ensiie.eu>, Richard Cheam <richard.cheam@ensiie.eu>
+Description: Aho-Corasick and Boyer-Moore pattern matching algrithms written in different languages : R and Rcpp. We also provide a simulation file evaluating the time complexity of these algorithms. 
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.5), stringr, testthat
+LinkingTo: Rcpp
+RoxygenNote: 7.3.2
