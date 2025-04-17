@@ -2,7 +2,7 @@
 
 ### Luc YAO, Léos COUTROT, Richard CHEAM
 
-#### Evry Paris-Saclay University
+#### Paris-Saclay University
 
 ### April 10, 2025
 
