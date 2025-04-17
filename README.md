@@ -48,7 +48,7 @@ install.packages(c("Rcpp", "RcppArmadillo", "devtools", "roxygen2", "testthat", 
 To install the CW_Rpackage package, use:
 
 ``` r
-devtools::install_github("aesthlu/CW_Rpackage")
+devtools::install_github("richardcheam/CW_Rpackage")
 ```
 
 Then, load the package:
